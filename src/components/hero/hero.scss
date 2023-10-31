@@ -35,13 +35,13 @@
 					background-color: #0197AF;
 					margin-right: 20px; 
 					cursor: pointer;
-					
-
+					font-weight: 300;
 				}
 			}
 
 			img{
-				width: 50%;
+				width: 5%;
+			
 			}
 
 		}
@@ -52,5 +52,16 @@
 	position: absolute;
 	top: 0;
 	right: 0;
+}
+
+.slidingTextContainer{
+	 position: absolute;
+		font-size: 35vh;
+		bottom: -100px;
+		white-space: nowrap;
+		color: #8ddfd4;
+		width: 50%;
+		font-weight: bold;
+
 }
 }
