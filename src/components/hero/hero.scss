@@ -2,6 +2,7 @@
 	height: calc(100vh - 100px);
 	overflow: hidden;
  position: relative;
+	color: #0197AF;
 
 	.wrapper{
 		max-width: 1366px;
@@ -15,10 +16,11 @@
 			flex-direction: column;
 			justify-content: center;
 			gap: 40px;
+  ;
 
 			h2{
 				font-size: 30px;
-				color: #0197AF;
+				color: white;
 				letter-spacing: 10px;
 			}
 
@@ -29,10 +31,10 @@
 			.buttons{
 				button{
 					padding: 20px;
-					border: 1px solid white;
+					border: none;
 					border-radius: 10px;
 					color: white ;
-					background-color: #0197AF;
+					background-color: #e81ea483;
 					margin-right: 20px; 
 					cursor: pointer;
 					font-weight: 300;
@@ -40,7 +42,7 @@
 			}
 
 			img{
-				width: 5%;
+				width: 2.5%;
 			
 			}
 
