@@ -26,28 +26,28 @@ const Services = () => {
 						</div>
 						</motion.div>
 					<motion.div className="listContainer">
-						<motion.div className="box" whileHover={{color:"white", borderRadius:"50px"}}>
+						<motion.div className="box" whileHover={{backgroundColor:"#e81ea483", color:"white", borderRadius:"50px"}}>
 							<h2>Branding</h2>
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
 								 Et reprehenderit commodi totam iure molestias quos illum dolorum nobis dolores dolor consequatur cum rem,
 								 voluptas recusandae mollitia quo voluptate facilis soluta.</p>
 									<button>Go</button>
 						</motion.div>
-						<motion.div className="box"  whileHover={{ color:"white",  borderRadius:"50px"}}>
+						<motion.div className="box"  whileHover={{backgroundColor:"#e81ea483",  color:"white",  borderRadius:"50px"}}>
 							<h2>Branding</h2>
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
 								 Et reprehenderit commodi totam iure molestias quos illum dolorum nobis dolores dolor consequatur cum rem,
 								 voluptas recusandae mollitia quo voluptate facilis soluta.</p>
 									<button>Go</button>
 						</motion.div>
-						<motion.div className="box"  whileHover={{color:"white",  borderRadius:"50px"}}>
+						<motion.div className="box"  whileHover={{backgroundColor:"#e81ea483", color:"white",  borderRadius:"50px"}}>
 							<h2>Branding</h2>
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
 								 Et reprehenderit commodi totam iure molestias quos illum dolorum nobis dolores dolor consequatur cum rem,
 								 voluptas recusandae mollitia quo voluptate facilis soluta.</p>
 									<button>Go</button>
 						</motion.div>
-						<motion.div className="box"  whileHover={{color:"white",  borderRadius:"50px"}}>
+						<motion.div className="box"  whileHover={{backgroundColor:"#e81ea483", color:"white",  borderRadius:"50px"}}>
 							<h2>Branding</h2>
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
 								 Et reprehenderit commodi totam iure molestias quos illum dolorum nobis dolores dolor consequatur cum rem,
