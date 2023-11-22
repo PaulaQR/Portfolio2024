@@ -1,9 +1,11 @@
 
+
 .services {
 display: flex;
 flex-direction: column;
 justify-content: space-between;
 color: white;
+gap: 200px;
 
 
 
@@ -75,20 +77,26 @@ color: white;
 
 
 	.box{
+
 		padding: 50px;
 		border: 0.5px solid white;
 		display: flex;
 		flex-direction: column;
 		justify-content: space-between;
 		border-radius: 50px;
+		margin: 10px;
 
 		button{
-			padding: 10px;
-			background-color: #e81ea483;
+			padding: 15px;
+			background-color: #0197af;
 			color: white;
 			border: none;
 			cursor: pointer;
 			border-radius: 5px;
+			margin-top: 20px;
+			 
+
+	
 		}
 	 }
  }
