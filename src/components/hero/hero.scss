@@ -1,69 +1,70 @@
-.hero{
+.hero {
 	height: calc(100vh - 100px);
 	overflow: hidden;
- position: relative;
+	position: relative;
 	color: #0197AF;
 
-	.wrapper{
+
+	.wrapper {
 		max-width: 1366px;
 		height: 100%;
-	 margin: auto;
+		margin: auto;
 
-		.textContainer{
+		.textContainer {
 			width: 50%;
 			height: 100%;
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
 			gap: 40px;
-  ;
+			;
 
-			h2{
+			h2 {
 				font-size: 30px;
 				color: white;
 				letter-spacing: 10px;
 			}
 
-			h1{
+			h1 {
 				font-size: 88px;
 			}
 
-			.buttons{
-				button{
+			.buttons {
+				button {
 					padding: 20px;
 					border: none;
 					border-radius: 10px;
-					color: white ;
+					color: white;
 					background-color: #e81ea483;
-					margin-right: 20px; 
+					margin-right: 20px;
 					cursor: pointer;
 					font-weight: 300;
 				}
 			}
 
-			img{
+			img {
 				width: 2.5%;
-			
+
 			}
 
 		}
 	}
 
-.imageContainer{
-	height: 100%;
-	position: absolute;
-	top: 0;
-	right: 0;
-}
+	.imageContainer {
+		height: 100%;
+		position: absolute;
+		top: 0;
+		right: 0;
+	}
 
-.slidingTextContainer{
-	 position: absolute;
-		font-size: 20vh;
+	.slidingTextContainer {
+		position: absolute;
+		font-size: 15vh;
 		bottom: -40px;
 		white-space: nowrap;
-		color: #0198af7a;
+		color: #9191917a;
 		width: 50%;
 		font-weight: bold;
 
-}
+	}
 }
