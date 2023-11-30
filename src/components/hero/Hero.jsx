@@ -66,7 +66,7 @@ const Hero = () => {
 				UX | UI | WEB | DESIGN 
 			</motion.div>
 			<div className="imageContainer">
-				<img src="/Hero.png" alt="Imagen Home" />
+				<img src="/hero.png" alt="Imagen Home" />
 			</div>
 		</div>
 	)
