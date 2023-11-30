@@ -39,7 +39,7 @@ const Single = ({ item }) => {
 		offset: ["start start", "end end"],
 	});
 
-	const y = useTransform(scrollYProgress, [0, 1], ["0%", "-300%"]);
+
 
 	return (
 		<section ref={ref}>
@@ -49,7 +49,7 @@ const Single = ({ item }) => {
 						<img	src={item.img} alt="" />
 					</div>
 					<img src={item.img} alt="" />
-					<motion.div className="textContainer" style={{y}}>
+					<motion.div className="textContainer">
 						<h2>{item.title}</h2>
 						<p>{item.desc}</p>
 						<button>See</button>
