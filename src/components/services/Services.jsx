@@ -39,8 +39,8 @@ const Services = () => {
 		>
 			<motion.div className="textContainer" variants={variants}>
 				<p>
-					I focus on helping you brand grow
-					<br /> and move forward
+					Me concentro en ayudarte	a crear una marca que te represente
+					<br /> y que te ayude a crecer.
 				</p>
 				<hr />
 			</motion.div>
@@ -48,14 +48,14 @@ const Services = () => {
 				<div className="title">
 					<img src="/work.png" alt="Wallpaper set up" />
 					<h1>
-						<motion.b whileHover={{color:"#0197af"}}>Unique</motion.b> Ideas
+						<motion.b whileHover={{color:"#0197af"}}>Ideas</motion.b> Únicas
 					</h1>
 				</div>
 				<div className="title">
 					<h1>
 						<motion.b whileHover={{color:"#0197af"}}>For You</motion.b> Business.
 					</h1>
-					<button>WHAT WE DO?</button>
+					<button>÷?</button>
 				</div>
 			</motion.div>
 			<motion.div className="listContainer" variants={variants}>

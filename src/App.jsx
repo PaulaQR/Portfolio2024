@@ -25,7 +25,7 @@ const App = () => {
       <Portfolio/>
     <section id="Contact">
       <div className="textContainer">
-        <h1>Contact</h1>
+   
       </div>
       <div className="formContainer"></div>
       <Contact/>
