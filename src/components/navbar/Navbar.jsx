@@ -15,7 +15,7 @@ const Navbar = () => {
 				<div className="social">
 					<a href="#"><img src="/facebook.png" alt="logo facebook" /> </a>
 					<a href="#"><img src="/instagram.png" alt="logo instagram" /> </a>
-					<a href="#"><img src="/linkedin.png" altVB="logo linkedin" /> </a>
+					<a href="#"><img src="/linkedin.png" alt="logo linkedin" /> </a>
 					<a href="#"><img src="/behance.png" alt="logo behance" /> </a>
 				</div>
 			</div>
