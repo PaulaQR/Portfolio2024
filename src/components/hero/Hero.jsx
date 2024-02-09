@@ -49,7 +49,7 @@ const Hero = () => {
 					animate="animate"
 				>
 					<motion.h2 variants={textVariants}>PAUPIXEL</motion.h2>
-					<motion.h1 variants={textVariants}>DISEÑADORA DIGITAL </motion.h1>
+					<motion.h1 variants={textVariants}>DISEÑADORA UX | UI</motion.h1>
 					<motion.div variants={textVariants} className="buttons">
 						<motion.button variants={textVariants}>Últimos proyectos</motion.button>
 						<motion.button variants={textVariants}>Contactame</motion.button>

@@ -34,13 +34,13 @@ const Services = () => {
 			//animate="animate"  
 			// whileInView="animate"
 			ref={ref}
-			animate={isInView && "animate"}
+			animate={"animate"}
 
 		>
 			<motion.div className="textContainer" variants={variants}>
 				<p>
-					Me concentro en ayudarte	a crear una marca que te represente
-					<br /> y que te ayude a crecer.
+			 Tengo conocimientos basicos en  programación, creando experiencias visuales llamatiivas y funcionales para los usuarios.
+					<br /> 
 				</p>
 				<hr />
 			</motion.div>
@@ -48,14 +48,14 @@ const Services = () => {
 				<div className="title">
 					<img src="/work.png" alt="Wallpaper set up" />
 					<h1>
-						<motion.b whileHover={{color:"#0197af"}}>Ideas</motion.b> Únicas
+						<motion.b whileHover={{color:"#0197af"}}> Diseño </motion.b> atractivo,
 					</h1>
 				</div>
 				<div className="title">
 					<h1>
-						<motion.b whileHover={{color:"#0197af"}}>For You</motion.b> Business.
+						<motion.b whileHover={{color:"#0197af"}}> funcional </motion.b> y centrado	en el usuario
 					</h1>
-					<button>÷?</button>
+					<button>¿Cómo lo ha?</button>
 				</div>
 			</motion.div>
 			<motion.div className="listContainer" variants={variants}>
@@ -89,7 +89,7 @@ const Services = () => {
 				</motion.div>
 			</motion.div>
 		</motion.div>
-	)
-}
+	);
+}; 
 
-export default Services
+export default Services;
