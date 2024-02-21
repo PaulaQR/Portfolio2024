@@ -55,7 +55,7 @@ const Services = () => {
 					<h1>
 						<motion.b whileHover={{color:"#0197af"}}> funcional </motion.b> y centrado	en el usuario
 					</h1>
-					<button>¿Cómo lo ha?</button>
+					<button>¿Cómo?</button>
 				</div>
 			</motion.div>
 			<motion.div className="listContainer" variants={variants}>

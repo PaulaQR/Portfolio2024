@@ -30,11 +30,11 @@ const itemVariants = {
 const Links = () => {
 
 	const items = [
-		"Homepage",
-		"Services",
-		"Potfolio",
-		"Contact",
-		"About",
+		"Inicio",
+		"Servicios",
+		"Potafolio",
+		"Contacto",
+		"Sobre mi",
 	];
 
 		return (
@@ -46,7 +46,9 @@ const Links = () => {
 						 key={item}
 							 variants={itemVariants}
 								 whileHover={{scale:1.1}}
-									 whileTap={{ scale: 0.95}}>
+									 whileTap={{ scale: 0.95}}
+										
+										>
 						{item}
 					</motion.a>
 				))}

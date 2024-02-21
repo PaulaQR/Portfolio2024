@@ -5,19 +5,19 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 const items = [
 	{
 		id: 1,
-		title: "Tikipal | Figma ",
+		title: "Tikipal",
 		img: "/1.png",
-		desc: "Es una Web para comprar covers de entradas para los mejores bares de Bogotá,   atualmente trabajo con el equipo de Tikipal como Diseñadora Web y creadora de contenido para sus Redes sociales.",
+		desc: "Atualmente trabajo con el equipo de Tikipal como Diseñadora UX UI y creadora de contenido para sus Redes sociales",
 	},
 	{
 		id: 2,
-		title: "Laboratoria | Bootcamp | Desarrollo Web",
+		title: "Bootcamp Laboratoria",
 		img: "/2.png",
 		desc: "Estuve  6 meses  en el Bootcamp de Laboratoria, donde aprendí a programar en HTML, CSS, JavaScript, React, Node.js, Firebase, Git, GitHub, entre otros.",
 	},
 	{
 		id: 3,
-		title: "Respira  | app Figma | CoderHouse",
+		title: "CoderHouse",
 		img: "/3.png",
 		desc: "Fue un curso que realicé en coderhouse, donde aprendí a diseñar una app en Figma,  y a crear un prototipo de alta fidelidad. Además terminé toda la carrera de diseño UX/UI.",
 	},
