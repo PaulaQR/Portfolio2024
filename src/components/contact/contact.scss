@@ -52,7 +52,7 @@
 		position: relative;
 		
 		@include mobile{
-			padding: 50px;
+			padding: 20px;
 			width: 100%;
 			}
 
@@ -60,6 +60,11 @@
 			position: absolute;
 			margin: auto;
 			z-index: -1;
+
+					
+		@include mobile{
+			align-items: center;
+			}
 		}
 
 		form{
