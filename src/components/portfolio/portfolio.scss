@@ -13,7 +13,7 @@
 		font-size: 36px;
 
 		@include mobile{
-			padding: 10px;;
+			padding: 10px;
 			font-size: 14px;
 			object-fit: cover;
 
@@ -85,6 +85,9 @@
 
 			@include mobile{
 				transform: none !important;
+				padding: 10px;
+				align-items: center;
+				text-align: center;
 				}
 
 			h2{
@@ -95,8 +98,6 @@
 					font-size: 50px;
 					text-align: center;
 					}
-
-				
 			}
 
 			p{
