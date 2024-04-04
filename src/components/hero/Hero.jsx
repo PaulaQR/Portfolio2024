@@ -2,7 +2,7 @@ import "./hero.scss";
 import { motion } from "framer-motion";
 
 const textVariants = {
-	initial: {x
+	initial: {
 		x: -500,
 		opacity: 0,
 	},
