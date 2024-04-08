@@ -25,7 +25,7 @@ color: white;
 align-self: center;
 text-align: center;
 flex-direction: column;
-margin: 20px;
+margin: 0px;
 padding: 20px;
 }
 	p{
@@ -138,7 +138,7 @@ padding: 20px;
 
 		p{
 			@include mobile{
-			display: none;
+				text-align: start;
 		}
 	}
 		button{
