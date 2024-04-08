@@ -55,7 +55,6 @@ const Services = () => {
 					<h1>
 						<motion.b whileHover={{ color: "#0197af" }}> Funcional </motion.b> y Centrado	en el usuario
 					</h1>
-					<button>Mis servicios</button>
 				</div>
 			</motion.div>
 			<motion.div className="listContainer" variants={variants}>

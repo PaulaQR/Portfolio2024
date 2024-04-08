@@ -32,8 +32,8 @@ const Links = () => {
 	const items = [
 		"Inicio",
 		"Servicios",
-		"Potafolio",
-		"Contacto",
+		"Portafolio",
+		"Contact",
 		"Sobre mi",
 	];
 
